@@ -14,11 +14,7 @@ int main()
 {
     SetConsoleOutputCP(1251);
 
-    double x;
-    double y1;
-    double y2;
-    double A;
-    double B;
+    double x, y1, y2, A, B;
 
     cout << "x="; cin >> x;
 
